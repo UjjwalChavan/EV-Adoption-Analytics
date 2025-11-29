@@ -1,1 +1,1 @@
-EV Adoption Trend Analytics
+EV Adoption Analytics
